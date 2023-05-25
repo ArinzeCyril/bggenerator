@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: .5rem;
+    box-sizing: border-box;
+    margin-top: 15%;
+    background: linear-gradient(to right, red, yellow);
+}
+
+h1 {
+    font-size: 2.3rem;
+    letter-spacing: .3em;
+    width: 100%;
+    margin-bottom: 15%;
+}
+
+h2 {
+    letter-spacing: .25em;
+    font-size: 1.5rem;
+    margin-top: 15%;
+}
+
+h3 {
+    font-size: .86rem;
+    letter-spacing: .01em;
+    margin-top: 8%;
+}
